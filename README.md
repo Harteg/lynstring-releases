@@ -12,7 +12,7 @@
 
 LynString is a desktop app (macOS, Windows, Linux) that scans your Android project, finds missing or outdated translations, and writes them straight back into your `res/values-*/strings.xml` files. No copy-paste. No external tools.
 
-> **$8 / month** · 7-day free trial · No API key required
+> 7-day free trial · [See pricing](www.lynstring.dev) · No API key required
 
 ## Features
 
